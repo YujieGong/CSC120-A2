@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+Through looking at the output of my code, My output is the same as that of the procedural code before, so I think it works properly. But one thing I'm not very sure is how to test it, because I only compare the output, but I don't if my code will work and output accordingly if the computer is not in the inventory. One advice would be working with a classmate you know. As I first started doing this assignment, I was really confused so I discussed with Zhirou and we tried to figure about how to change from procedural coding to object-oriented coding. Another advice is to review the codes in class and relate it with the assignment, that would be really helpful.
